@@ -1,5 +1,5 @@
 # PostTest1PraktikumDDP
-Post Test 1 Praktikum DasPro (Achmad Rizqy Pranata) - (2209116086)
+Post Test 1 Praktikum DasPro (Achmad Rizqy Pranata) - (2209116086) (NIM GENAP)
 
 Flowchart: 
 

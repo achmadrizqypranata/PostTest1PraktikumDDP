@@ -16,12 +16,10 @@ Pertama, User akan diminta untuk menginput Nama, NIM, dan Memilih kelas. Setelah
 
 Hasil (Contoh):
 
--
-Jika Login Berhasil:
+- Jika Login Berhasil:
 ![Screenshot 2023-09-26 010156](https://github.com/achmadrizqypranata/PostTest1PraktikumDDP/assets/144988929/be2a38a7-6014-434e-bf54-878f61978067)
 
--
-Jika Login Gagal:
+- Jika Login Gagal:
 
 ![Screenshot 2023-09-26 010220](https://github.com/achmadrizqypranata/PostTest1PraktikumDDP/assets/144988929/df085e06-fc8a-4b8e-ac74-0bd69401301b)
 
@@ -33,10 +31,10 @@ Code:
 Hasil (Contoh):
 ![Screenshot 2023-09-26 010747](https://github.com/achmadrizqypranata/PostTest1PraktikumDDP/assets/144988929/7372f62d-477e-4d1c-a068-2383ead1e6e9)
 
-Disini, User akan diminta untuk memilih satuan massa yang ingin di konversikan sesuai dengan kebutuhan user dan menginput angka berat sesuai yang di inginkan user. dan program di proses menggunakan tipe data (float) yang akan di jumlah dan dihasilkan sehingga menghasilkan angka yang sesuai dengan satuan yang ada
+Disini, User akan diminta untuk memilih satuan massa yang ingin di konversikan sesuai dengan kebutuhan user dan menginput angka berat sesuai yang di inginkan oleh user. dan program di proses menggunakan tipe data (float) yang akan di jumlah dan dihasilkan sehingga menghasilkan angka yang sesuai dengan satuan yang ada.
 
+Setelah program menghitung selesai, User akan ditanya apakah ingin mengulangi program atau tidak. Jika tidak program menghitung akan berhenti dan Jika User ingin menghitung atau ingin menggunakan program nya kembali maka program akan kembali ke Menu menghitung dan User dapat memilih program atau menghitung kembali sesuai keinginan User
 
+Hasil (Contoh):
 
-
-
-
+![Screenshot 2023-09-26 011415](https://github.com/achmadrizqypranata/PostTest1PraktikumDDP/assets/144988929/adb4a351-418f-403b-8548-f309eb02677a)

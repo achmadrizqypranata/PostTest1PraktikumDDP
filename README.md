@@ -17,10 +17,11 @@ Pertama, User akan diminta untuk menginput Nama, NIM, dan Memilih kelas. Setelah
 Hasil (Contoh):
 
 - Jika Login Berhasil:
-  ![Screenshot 2023-09-26 010156](https://github.com/achmadrizqypranata/PostTest1PraktikumDDP/assets/144988929/be2a38a7-6014-434e-bf54-878f61978067)
+![Screenshot 2023-09-26 010156](https://github.com/achmadrizqypranata/PostTest1PraktikumDDP/assets/144988929/be2a38a7-6014-434e-bf54-878f61978067)
 
 - Jika Login Gagal:
-  ![Screenshot 2023-09-26 010220](https://github.com/achmadrizqypranata/PostTest1PraktikumDDP/assets/144988929/df085e06-fc8a-4b8e-ac74-0bd69401301b)
+
+![Screenshot 2023-09-26 010220](https://github.com/achmadrizqypranata/PostTest1PraktikumDDP/assets/144988929/df085e06-fc8a-4b8e-ac74-0bd69401301b)
 
 Program menghitung nilai konversi satuan massa kilogram (kg).
 
